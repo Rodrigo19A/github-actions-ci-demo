@@ -16,4 +16,3 @@ app.get('/users', (req, res) => {
 });
 
 module.exports = app;
-const unusedVariable = 'esto causara un error de linting';
